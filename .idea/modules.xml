@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mediacodec/Mediacodec.iml" filepath="$PROJECT_DIR$/Mediacodec/Mediacodec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDemo.iml" filepath="$PROJECT_DIR$/MyDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiolibrary/audiolibrary.iml" filepath="$PROJECT_DIR$/audiolibrary/audiolibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opengl/opengl.iml" filepath="$PROJECT_DIR$/opengl/opengl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parsingandencapsulation/parsingandencapsulation.iml" filepath="$PROJECT_DIR$/parsingandencapsulation/parsingandencapsulation.iml" />
+    </modules>
+  </component>
+</project>

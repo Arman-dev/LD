@@ -1,0 +1,1 @@
+include ':app', ':Mediacodec', ':common', ':opengl', ':audiolibrary', ':parsingandencapsulation'

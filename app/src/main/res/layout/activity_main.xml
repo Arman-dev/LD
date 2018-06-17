@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_height="match_parent"
+    tools:context="com.arman.demo.MainActivity">
+
+    <Button
+        android:id="@+id/btn_audio"
+        style="@style/btnStyle1"
+        android:text="@string/audio_demo"/>
+
+    <Button
+        android:id="@+id/btn_codec"
+        style="@style/btnStyle1"
+        android:text="@string/media_codec"/>
+
+    <Button
+        android:id="@+id/btn_opengl"
+        style="@style/btnStyle1"
+        android:text="@string/open_gl"/>
+</LinearLayout>
